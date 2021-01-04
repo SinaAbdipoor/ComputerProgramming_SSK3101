@@ -1,0 +1,347 @@
+Windows PowerShell
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+Try the new cross-platform PowerShell https://aka.ms/pscore6
+
+PS C:\Users\sinaa> java -jar "C:\Users\sinaa\Documents\NetBeansProjects\SSK3101_Assignment14\dist\SSK3101_Assignment14.jar" "C:\Users\sinaa\Documents\NetBeansProjects\SSK3101_Assignment14\marks.txt"
+Loading the input marks file...
+No.     Test1   Test2   As1     As2     As3     Final
+168613  41.5    20.8    14      24      25      43
+Calculating marks...
+Student: 168613
+Test1: 41.5(16.6%)
+Test2: 20.8(8.32%)
+As1: 14.0(4.666666666666667%)
+As2: 24.0(8.0%)
+As3: 25.0(8.333333333333334%)
+Final: 43.0(12.9%)
+Total: 58.82000000000001%
+Grade: C+
+Writing the results on the output file...
+
+171661  15      7.5     0       0       0       0
+Calculating marks...
+Student: 171661
+Test1: 15.0(6.0%)
+Test2: 7.5(3.0%)
+As1: 0.0(0.0%)
+As2: 0.0(0.0%)
+As3: 0.0(0.0%)
+Final: 0.0(0.0%)
+Total: 9.0%
+Grade: F
+Writing the results on the output file...
+
+174107  40.5    20.3    25      14      0       21
+Calculating marks...
+Student: 174107
+Test1: 40.5(16.2%)
+Test2: 20.3(8.12%)
+As1: 25.0(8.333333333333334%)
+As2: 14.0(4.666666666666667%)
+As3: 0.0(0.0%)
+Final: 21.0(6.3%)
+Total: 43.62%
+Grade: D
+Writing the results on the output file...
+
+175752  43.5    21.8    24      14      25      31
+Calculating marks...
+Student: 175752
+Test1: 43.5(17.4%)
+Test2: 21.8(8.72%)
+As1: 24.0(8.0%)
+As2: 14.0(4.666666666666667%)
+As3: 25.0(8.333333333333334%)
+Final: 31.0(9.3%)
+Total: 56.42%
+Grade: C+
+Writing the results on the output file...
+
+176360  25      12.5    14      24      25      53
+Calculating marks...
+Student: 176360
+Test1: 25.0(10.0%)
+Test2: 12.5(5.0%)
+As1: 14.0(4.666666666666667%)
+As2: 24.0(8.0%)
+As3: 25.0(8.333333333333334%)
+Final: 53.0(15.9%)
+Total: 51.9%
+Grade: C
+Writing the results on the output file...
+
+176509  22.5    11.3    4       14      25      8
+Calculating marks...
+Student: 176509
+Test1: 22.5(9.0%)
+Test2: 11.3(4.52%)
+As1: 4.0(1.3333333333333333%)
+As2: 14.0(4.666666666666667%)
+As3: 25.0(8.333333333333334%)
+Final: 8.0(2.4%)
+Total: 30.25333333333333%
+Grade: F
+Writing the results on the output file...
+
+176545  33      16.5    2       24      25      36
+Calculating marks...
+Student: 176545
+Test1: 33.0(13.2%)
+Test2: 16.5(6.6%)
+As1: 2.0(0.6666666666666666%)
+As2: 24.0(8.0%)
+As3: 25.0(8.333333333333334%)
+Final: 36.0(10.8%)
+Total: 47.599999999999994%
+Grade: C-
+Writing the results on the output file...
+
+176661  45.5    22.8    24      24      25      48
+Calculating marks...
+Student: 176661
+Test1: 45.5(18.2%)
+Test2: 22.8(9.12%)
+As1: 24.0(8.0%)
+As2: 24.0(8.0%)
+As3: 25.0(8.333333333333334%)
+Final: 48.0(14.4%)
+Total: 66.05333333333334%
+Grade: B
+Writing the results on the output file...
+
+176806  27.5    13.8    24      24      25      50
+Calculating marks...
+Student: 176806
+Test1: 27.5(11.0%)
+Test2: 13.8(5.52%)
+As1: 24.0(8.0%)
+As2: 24.0(8.0%)
+As3: 25.0(8.333333333333334%)
+Final: 50.0(15.0%)
+Total: 55.85333333333333%
+Grade: C+
+Writing the results on the output file...
+
+176843  25      12.5    25      0       25      34
+Calculating marks...
+Student: 176843
+Test1: 25.0(10.0%)
+Test2: 12.5(5.0%)
+As1: 25.0(8.333333333333334%)
+As2: 0.0(0.0%)
+As3: 25.0(8.333333333333334%)
+Final: 34.0(10.2%)
+Total: 41.866666666666674%
+Grade: D
+Writing the results on the output file...
+
+176914  13.5    6.8     25      24      25      32
+Calculating marks...
+Student: 176914
+Test1: 13.5(5.4%)
+Test2: 6.8(2.72%)
+As1: 25.0(8.333333333333334%)
+As2: 24.0(8.0%)
+As3: 25.0(8.333333333333334%)
+Final: 32.0(9.6%)
+Total: 42.38666666666667%
+Grade: D
+Writing the results on the output file...
+
+177010  11      5.5     24      24      25      57
+Calculating marks...
+Student: 177010
+Test1: 11.0(4.4%)
+Test2: 5.5(2.2%)
+As1: 24.0(8.0%)
+As2: 24.0(8.0%)
+As3: 25.0(8.333333333333334%)
+Final: 57.0(17.1%)
+Total: 48.03333333333334%
+Grade: C-
+Writing the results on the output file...
+
+177295  48      24.0    15      24      25      49.5
+Calculating marks...
+Student: 177295
+Test1: 48.0(19.2%)
+Test2: 24.0(9.6%)
+As1: 15.0(5.0%)
+As2: 24.0(8.0%)
+As3: 25.0(8.333333333333334%)
+Final: 49.5(14.85%)
+Total: 64.98333333333333%
+Grade: B-
+Writing the results on the output file...
+
+177533  32.5    16.3    14      0       25      61.5
+Calculating marks...
+Student: 177533
+Test1: 32.5(13.0%)
+Test2: 16.3(6.52%)
+As1: 14.0(4.666666666666667%)
+As2: 0.0(0.0%)
+As3: 25.0(8.333333333333334%)
+Final: 61.5(18.45%)
+Total: 50.97%
+Grade: C
+Writing the results on the output file...
+
+177617  13      6.5     4       14      25      57.5
+Calculating marks...
+Student: 177617
+Test1: 13.0(5.2%)
+Test2: 6.5(2.6%)
+As1: 4.0(1.3333333333333333%)
+As2: 14.0(4.666666666666667%)
+As3: 25.0(8.333333333333334%)
+Final: 57.5(17.25%)
+Total: 39.38333333333333%
+Grade: F
+Writing the results on the output file...
+
+177633  15.5    7.8     25      14      25      35
+Calculating marks...
+Student: 177633
+Test1: 15.5(6.2%)
+Test2: 7.8(3.12%)
+As1: 25.0(8.333333333333334%)
+As2: 14.0(4.666666666666667%)
+As3: 25.0(8.333333333333334%)
+Final: 35.0(10.5%)
+Total: 41.153333333333336%
+Grade: D
+Writing the results on the output file...
+
+177773  17.5    8.8     24      14      25      53.5
+Calculating marks...
+Student: 177773
+Test1: 17.5(7.0%)
+Test2: 8.8(3.52%)
+As1: 24.0(8.0%)
+As2: 14.0(4.666666666666667%)
+As3: 25.0(8.333333333333334%)
+Final: 53.5(16.05%)
+Total: 47.57000000000001%
+Grade: C-
+Writing the results on the output file...
+
+177776  20      10.0    24      24      25      63
+Calculating marks...
+Student: 177776
+Test1: 20.0(8.0%)
+Test2: 10.0(4.0%)
+As1: 24.0(8.0%)
+As2: 24.0(8.0%)
+As3: 25.0(8.333333333333334%)
+Final: 63.0(18.9%)
+Total: 55.233333333333334%
+Grade: C+
+Writing the results on the output file...
+
+177829  33      16.5    25      24      25      49
+Calculating marks...
+Student: 177829
+Test1: 33.0(13.2%)
+Test2: 16.5(6.6%)
+As1: 25.0(8.333333333333334%)
+As2: 24.0(8.0%)
+As3: 25.0(8.333333333333334%)
+Final: 49.0(14.7%)
+Total: 59.16666666666667%
+Grade: C+
+Writing the results on the output file...
+
+177968  29.5    14.8    24      24      25      55
+Calculating marks...
+Student: 177968
+Test1: 29.5(11.8%)
+Test2: 14.8(5.92%)
+As1: 24.0(8.0%)
+As2: 24.0(8.0%)
+As3: 25.0(8.333333333333334%)
+Final: 55.0(16.5%)
+Total: 58.553333333333335%
+Grade: C+
+Writing the results on the output file...
+
+178032  32      16.0    24      24      25      55
+Calculating marks...
+Student: 178032
+Test1: 32.0(12.8%)
+Test2: 16.0(6.4%)
+As1: 24.0(8.0%)
+As2: 24.0(8.0%)
+As3: 25.0(8.333333333333334%)
+Final: 55.0(16.5%)
+Total: 60.03333333333334%
+Grade: B-
+Writing the results on the output file...
+
+178079  10.5    5.3     25      14      25      39
+Calculating marks...
+Student: 178079
+Test1: 10.5(4.2%)
+Test2: 5.3(2.12%)
+As1: 25.0(8.333333333333334%)
+As2: 14.0(4.666666666666667%)
+As3: 25.0(8.333333333333334%)
+Final: 39.0(11.7%)
+Total: 39.35333333333334%
+Grade: F
+Writing the results on the output file...
+
+178183  34      17.0    15      25      25      73
+Calculating marks...
+Student: 178183
+Test1: 34.0(13.6%)
+Test2: 17.0(6.8%)
+As1: 15.0(5.0%)
+As2: 25.0(8.333333333333334%)
+As3: 25.0(8.333333333333334%)
+Final: 73.0(21.9%)
+Total: 63.96666666666667%
+Grade: B-
+Writing the results on the output file...
+
+178187  17      8.5     14      24      25      56.5
+Calculating marks...
+Student: 178187
+Test1: 17.0(6.8%)
+Test2: 8.5(3.4%)
+As1: 14.0(4.666666666666667%)
+As2: 24.0(8.0%)
+As3: 25.0(8.333333333333334%)
+Final: 56.5(16.95%)
+Total: 48.150000000000006%
+Grade: C-
+Writing the results on the output file...
+
+178405  19      9.5     24      24      25      53
+Calculating marks...
+Student: 178405
+Test1: 19.0(7.6%)
+Test2: 9.5(3.8%)
+As1: 24.0(8.0%)
+As2: 24.0(8.0%)
+As3: 25.0(8.333333333333334%)
+Final: 53.0(15.9%)
+Total: 51.63333333333333%
+Grade: C
+Writing the results on the output file...
+
+178663  20.5    10.3    24      24      25      60
+Calculating marks...
+Student: 178663
+Test1: 20.5(8.2%)
+Test2: 10.3(4.12%)
+As1: 24.0(8.0%)
+As2: 24.0(8.0%)
+As3: 25.0(8.333333333333334%)
+Final: 60.0(18.0%)
+Total: 54.653333333333336%
+Grade: C
+Writing the results on the output file...
+
+Results have been calculated and printed successfully. You can find the output file here: C:\Users\sinaa\Documents\output.txt
