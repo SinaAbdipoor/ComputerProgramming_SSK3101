@@ -1,0 +1,6 @@
+RamliAhmad's (M) waist size is 80.0, so the health status is Low risk
+InaGhani's (F) waist size is 143.0, so the health status is High risk
+JohnElwis's (M) waist size is 70.0, so the health status is Low risk
+MaryElton's (F) waist size is 90.0, so the health status is High risk
+RidzuanIsmail's (M) waist size is 100.0, so the health status is Moderate risk
+HerriJohnny's (M) waist size is 79.0, so the health status is Low risk

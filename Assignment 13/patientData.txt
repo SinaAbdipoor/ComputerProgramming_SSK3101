@@ -1,0 +1,6 @@
+Ramli	Ahmad	M	80
+Ina	Ghani	F	143
+John	Elwis	M	70
+Mary	Elton	F	90
+Ridzuan	Ismail	M	100
+Herri	Johnny	M	79
